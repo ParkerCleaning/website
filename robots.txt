@@ -1,0 +1,11 @@
+User-agent:*
+allow:/
+allow:/index.html
+allow:/client.html
+allow:/company-profile.html
+allow:/contact-us.html
+allow:/mission-statement.html
+allow:/our-services.html
+allow:/reference-page.html
+allow:/sterilization-service.html
+disallow:/test
