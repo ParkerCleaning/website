@@ -1,13 +1,13 @@
 User-agent:*
-allow:/
-allow:/index.html
-allow:/client.html
-allow:/company-profile.html
-allow:/contact-us.html
-allow:/mission-statement.html
-allow:/our-services.html
-allow:/reference-page.html
-allow:/sterilization-service.html
-disallow:/other
+Allow:/
+Allow:/index.html
+Allow:/client.html
+Allow:/company-profile.html
+Allow:/contact-us.html
+Allow:/mission-statement.html
+Allow:/our-services.html
+Allow:/reference-page.html
+Allow:/sterilization-service.html
+Disallow:/other/
 
 Sitemap: https://www.parker-cleaning.com/sitemap.xml
