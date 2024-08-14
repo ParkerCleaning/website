@@ -8,6 +8,6 @@ Allow:/mission-statement.html
 Allow:/our-services.html
 Allow:/reference-page.html
 Allow:/sterilization-service.html
-Disallow:/other/
+Disallow:/name-card/
 
 Sitemap: https://www.parker-cleaning.com/sitemap.xml
