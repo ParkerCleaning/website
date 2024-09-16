@@ -9,5 +9,6 @@ Allow:/our-services.html
 Allow:/reference-page.html
 Allow:/sterilization-service.html
 Disallow:/name-card/
+Disallow:/safety-data-sheet
 
 Sitemap: https://www.parker-cleaning.com/sitemap.xml
