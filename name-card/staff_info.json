@@ -92,11 +92,21 @@
     "joanne":{
       "name_cn":"黃寶琼",
       "name_en":"Joanne Wong",
-      "position_cn":"",
-      "position_en":"行政助理 Admin Assistant",
+      "position_cn":"行政助理",
+      "position_en":"Admin Assistant",
       "email":"admin@parker-cleaning.com",
       "mobile":"62999487",
       "officePhone":"23490467",
       "whatsapp":"62999487"
+    },
+    "gilbert":{
+      "name_cn":"鄭瑋粮",
+      "name_en":"Gilbert Cheng",
+      "position_cn":"",
+      "position_en":"",
+      "email":"operation@parker-cleaning.com",
+      "mobile":"51872511",
+      "officePhone":"23490467",
+      "whatsapp":"51872511"
     }
   }
